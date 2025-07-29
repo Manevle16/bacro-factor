@@ -1,0 +1,12 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#001A8D",
+    "titleBar.activeBackground": "#0025C6",
+    "titleBar.activeForeground": "#F9FAFF"
+  }
+}
